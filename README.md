@@ -19,24 +19,19 @@ The Compound Interest Calculator is a Python application built using the tkinter
 ### Usage
 
     1. Clone the repository to your local machine.
-
     git clone https://github.com/ashot-gimishyan/Deposit-Calculator.git
 
     2. Navigate to the project directory.
-    
     cd Deposit-Calculator
 
     3. Install the required dependencies if not already installed.
-    
     pip install -r requirements.txt
 
     4. Run the application.
     python3 calculator.py
 
     5. Use the GUI to enter your initial deposit, annual interest rate, and interest frequency. Click the "Calculate" button to see the compound interest growth graph.
-
     6. Click the "Save Graph" button to save the current graph as a PNG image.
-
     7. Click the "Animate Growth" button to see the compound interest growth animated over time.
 
 ### Contributing
