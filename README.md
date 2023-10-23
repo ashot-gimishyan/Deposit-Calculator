@@ -1,6 +1,6 @@
-# Compound Interest Calculator
+# Deposit Calculator
 
-The Compound Interest Calculator is a Python application built using the tkinter and matplotlib libraries to calculate and visualize compound interest growth over time. This calculator provides an intuitive graphical user interface (GUI) that allows users to input their initial deposit, annual interest rate, and interest frequency to see how their money grows over time.
+The Deposit Calculator is a Python application built using the tkinter and matplotlib libraries to calculate and visualize compound interest growth over time. This calculator provides an intuitive graphical user interface (GUI) that allows users to input their initial deposit, annual interest rate, and interest frequency to see how their money grows over time.
 
 ### Features
 
